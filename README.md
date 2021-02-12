@@ -4,4 +4,4 @@ Met de groeiende interesse in Koppeltaal en het groeiende aantal aansluitende pa
 
 In samenwerking met de adapter-ontwikkelaars is er een adapter-release proces uitgewerkt. Dit proces beschrijft de flow van aanmelden van een verzoek/bug/feature tot de oplevering daarvan.
 
-![](adapter-releaseproces.png)
+![](Adapter-releaseproces.png)
